@@ -6,7 +6,8 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
 Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
 
-### Dataset
+### [Dataset](https://github.com/AbhinavTalmale/Business-Case-Netflix---Data-Exploration-and-Visualisation/tree/main/Dataset)
+
 
 The dataset provided consists of a list of all the TV shows/movies available on Netflix:
 
