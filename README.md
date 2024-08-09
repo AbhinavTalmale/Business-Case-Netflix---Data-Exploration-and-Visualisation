@@ -1,5 +1,12 @@
 # Business Case Netflix Data Exploration and Visualisation
 
+### Insights:
+
+- Analyzed a Netflix dataset with Python Libraries to extract insights for content production and business strategies.
+- Discovered that Dramas and International movies dominate Netflix with 15.9% and 13.4% share, guiding content strategy effectively.
+- Identified spikes in 2010 and 2019 content releases, influencing viewership trends during internet growth and lockdown, aiding
+strategic decision-making.
+
 ## About NETFLIX
 
 Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
